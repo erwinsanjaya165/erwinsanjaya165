@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://erwinsanjaya165.io)
 <h1 align="center">Hi 👋, I'm Erwin Sanjaya</h1>
-<h3 align="center">A passionate frontend developer from jambi</h3>
+<h3 align="center">A passionate mobile developer from jambi</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/724/1*IRGHmiGsa16stedQvIaZfw.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwinsanjaya&label=Profile%20views&color=0e75b6&style=flat" alt="erwinsanjaya" /> </p>
